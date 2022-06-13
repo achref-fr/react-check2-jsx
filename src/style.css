@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+
+  font-size: 10px;
+  
+  }
+  .red{
+    color: red;
+  }
+  .youknow{
+
+ border:solid 1px black;
+    max-width:100vw;
+ }
